@@ -1,3 +1,6 @@
 [submodule "uthash/uthash"]
 	path = uthash/uthash
 	url = https://github.com/troydhanson/uthash
+[submodule "protobuf/protobuf-c"]
+	path = protobuf/protobuf-c
+	url = https://github.com/protobuf-c/protobuf-c
